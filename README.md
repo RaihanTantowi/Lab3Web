@@ -342,3 +342,5 @@ header('location: index.php');
 * **Berikut adalah tampilan dari file hapus.php yang sebagian datanya sudah di hapus :**
   ![Gambar 10](Screenshoot/ss10.png)
 
+### *Sekian terimakasih :)*
+
